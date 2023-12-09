@@ -1,0 +1,8 @@
+save/
+sha256.cache/
+sha256.hw/
+sha256.ip_user_files/
+sha256.runs/
+sha256.sim/
+*.jou
+*.log
